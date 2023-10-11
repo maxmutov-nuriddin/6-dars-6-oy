@@ -106,7 +106,7 @@ console.log(changeObjToArr(obj));
 
 
 //! TEST 7 //
-
+ 
 
 type Student = {
   name: string;
